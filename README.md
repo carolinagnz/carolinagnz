@@ -4,7 +4,7 @@
 
 I build web applications with React, JavaScript, and PHP — and I care about clean code, good UX, and shipping things that actually work.
 
-Currently working as a **Junior SAP Consultant at SEIDOR** while finishing my **Higher Professional Training in Web Application Development (DAW)** at CFP Llefià, Barcelona.
+Currently working as a **Junior SAP PP Consultant at SEIDOR** while finishing my **Higher Professional Training in Web Application Development (DAW)** at CFP Llefià, Barcelona.
 
 ---
 
